@@ -371,5 +371,29 @@ div.footer h6 {
 textarea {
     width: 100%;
 
+}   
+
+div.hero-background-pos {
+    display: none;
+}   
+
+div.background {
+   
+    height: auto;
+   
+
+}   
+
+div.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 3rem;
+    width: 100vw;
+    background: #304353;
+    flex-direction: column;
+}
+
+div.logo {
+    text-align: center;
 }
 }

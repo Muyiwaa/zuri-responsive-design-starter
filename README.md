@@ -1,4 +1,6 @@
 # zuri-responsive-design-starter
 task
-### link to my zuri responsive page
-[click me](https://muyiwaa.github.io/zuri-responsive-design-starter/) 
+
+### link to my website
+[click here](https://muyiwaa.github.io/zuri-responsive-design-starter/)
+
